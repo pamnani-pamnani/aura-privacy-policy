@@ -1,37 +1,98 @@
 # aura-privacy-policy
-Privacy policies for my mobile applications.
-Aura App Privacy Policy
-Last Updated: [03-11-2025]
+Last Updated: 23-11-2025
 
-Aura ("the app") respects your privacy. This policy describes how we collect, use, and share information when you use our app.
+Aura ("the app", "we", "our") values and respects your privacy. This Privacy Policy explains what information is collected, how it is used, and your rights regarding the data.
 
-1. Data We Collect
-Advertising: We use Google AdMob to serve ads. AdMob may collect device identifiers (such as advertising ID) and other non-personal data to provide and improve ad experience.
+1. Information We Collect
+a. Advertising Data (Through Google AdMob)
 
-No Accounts: Aura does not ask for sign-up, login, or collect personal data (name, email, phone, location, etc.).
+Aura uses Google AdMob to show advertisements. AdMob may automatically collect:
 
-Offline Features: Most features work fully offline and do not transmit personal user data.
+Device information (such as advertising ID)
 
-2. Data Usage
-Data collected by AdMob is used for ad serving, analytics, and fraud prevention. Learn more: [Google Privacy Policy](https://policies.google.com/privacy)
+App interactions
+
+Approximate location (non-precise)
+
+Crash and performance data
+
+Ad engagement data
+
+This information is non-personally identifiable and is used to serve personalized or non-personalized ads depending on user consent.
+
+b. No Personal Data Collected by the App
+
+Aura does NOT collect, store, or require:
+
+Name
+
+Email address
+
+Phone number
+
+Photos
+
+Contacts
+
+Location (precise)
+
+Any other personal information
+
+The app works offline and does not create user accounts.
+
+2. How We Use Information
+
+Information collected by AdMob may be used for:
+
+Delivering and personalizing ads
+
+Analytics and performance measurement
+
+Detecting fraud and preventing misuse
+
+To understand how Google uses this data, visit:
+https://policies.google.com/privacy
 
 3. Data Sharing
-Device identifiers or analytics may be shared with AdMob and partners for ad delivery and statistical purposes.
 
-Aura does not share, sell, or transfer personal information.
+Aura does not sell, trade, or transfer personal information.
+
+Non-personal data may be shared automatically with:
+
+Google AdMob
+
+Google’s advertising partners
+
+This is required for serving ads properly.
 
 4. Children's Privacy
-Aura follows the Play Families Policy and does not knowingly collect personal information from children.
+
+Aura is not designed for children under 13.
+We do not knowingly collect personal information from children.
+
+If you believe a child provided any data, contact us to request deletion.
 
 5. Security
-All data transmitted by AdMob (if any) is encrypted in transit.
 
-6. Data Deletion
-As Aura does not store personal data, there is no data to delete. For AdMob-related information, refer to Google’s policy.
+AdMob handles all transmitted data securely.
 
-7. Changes
-This policy may be updated as required. Updates take effect when posted.
+Any information transferred between your device and Google services is encrypted.
 
-8. Contact
-For privacy concerns, contact: [developper2025@gmail.com]
+Aura does not store any sensitive data on its servers.
 
+6. Data Deletion Request
+
+Aura does not collect or store personal data; therefore, no internal data deletion is required.
+
+For AdMob-related information, you may request deletion through Google:
+https://policies.google.com/privacy#infochoices
+
+7. Policy Updates
+
+We may update this Privacy Policy from time to time.
+Changes become effective when posted within the app or on our website.
+
+8. Contact Us
+
+If you have privacy-related questions or requests, contact:
+📧 developper2025@gmail.com
