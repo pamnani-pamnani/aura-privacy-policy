@@ -88,4 +88,4 @@ Users are encouraged to review this policy periodically.
 If you have any questions or suggestions regarding this Privacy Policy, please contact us:
 
 Developer: Divine Creations
-Email: your-email@example.com
+Email: developper2025@gmail.com
