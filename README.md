@@ -1,98 +1,91 @@
-# aura-privacy-policy
-Last Updated: 23-11-2025
+Privacy Policy for Aura: Affirmations & Calm
 
-Aura ("the app", "we", "our") values and respects your privacy. This Privacy Policy explains what information is collected, how it is used, and your rights regarding the data.
+Last updated: March 2026
+
+Aura: Affirmations & Calm (“the App”) respects your privacy and is committed to protecting it. This Privacy Policy explains how the App handles information when you use it.
+
+By using the App, you agree to the practices described in this Privacy Policy.
 
 1. Information We Collect
-a. Advertising Data (Through Google AdMob)
 
-Aura uses Google AdMob to show advertisements. AdMob may automatically collect:
+The App is designed to provide affirmations, meditation sounds, and motivational content.
 
-Device information (such as advertising ID)
+We do not collect personally identifiable information such as your name, email address, phone number, or location.
 
-App interactions
+However, the app may automatically collect limited non-personal information for functionality and performance improvement.
 
-Approximate location (non-precise)
+This may include:
 
-Crash and performance data
+Device type
 
-Ad engagement data
+Android OS version
 
-This information is non-personally identifiable and is used to serve personalized or non-personalized ads depending on user consent.
+App version
 
-b. No Personal Data Collected by the App
+Crash logs and diagnostic information
 
-Aura does NOT collect, store, or require:
+Anonymous usage data
 
-Name
-
-Email address
-
-Phone number
-
-Photos
-
-Contacts
-
-Location (precise)
-
-Any other personal information
-
-The app works offline and does not create user accounts.
+This information helps us improve the app experience.
 
 2. How We Use Information
 
-Information collected by AdMob may be used for:
+Any collected information is used only to:
 
-Delivering and personalizing ads
+Improve app stability and performance
 
-Analytics and performance measurement
+Fix crashes and technical issues
 
-Detecting fraud and preventing misuse
+Enhance user experience
 
-To understand how Google uses this data, visit:
-https://policies.google.com/privacy
+Maintain app security
 
-3. Data Sharing
+We do not sell, rent, or share personal data with third parties.
 
-Aura does not sell, trade, or transfer personal information.
+3. Third-Party Services
 
-Non-personal data may be shared automatically with:
+The App may use trusted third-party services that help us operate and improve the app.
 
-Google AdMob
+These services may collect anonymous information in accordance with their own privacy policies.
 
-Google’s advertising partners
+Examples may include:
 
-This is required for serving ads properly.
+Google Play Services
 
-4. Children's Privacy
+Firebase Analytics or Crash Reporting (if used)
 
-Aura is not designed for children under 13.
-We do not knowingly collect personal information from children.
+These services are used only for app functionality and performance monitoring.
 
-If you believe a child provided any data, contact us to request deletion.
+4. Permissions
 
-5. Security
+The App may request certain permissions depending on features used.
 
-AdMob handles all transmitted data securely.
+Examples include:
 
-Any information transferred between your device and Google services is encrypted.
+Internet Permission
+Used to load online resources or updates if required.
 
-Aura does not store any sensitive data on its servers.
+The App does not access personal files, contacts, photos, microphone, or location unless explicitly stated.
 
-6. Data Deletion Request
+5. Data Security
 
-Aura does not collect or store personal data; therefore, no internal data deletion is required.
+We take reasonable measures to protect the information used by the App. However, no method of transmission over the internet or electronic storage is completely secure.
 
-For AdMob-related information, you may request deletion through Google:
-https://policies.google.com/privacy#infochoices
+6. Children's Privacy
 
-7. Policy Updates
+The App does not knowingly collect personal information from children under the age of 13.
 
-We may update this Privacy Policy from time to time.
-Changes become effective when posted within the app or on our website.
+If a parent or guardian believes that a child has provided personal information, please contact us so we can remove it.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any updates will be posted on this page with an updated revision date.
+
+Users are encouraged to review this policy periodically.
 
 8. Contact Us
 
-If you have privacy-related questions or requests, contact:
-📧 developper2025@gmail.com
+If you have any questions or suggestions regarding this Privacy Policy, please contact us:
+
+Developer: Divine Creations
+Email: your-email@example.com
