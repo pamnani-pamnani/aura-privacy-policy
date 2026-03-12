@@ -1,91 +1,59 @@
 Privacy Policy for Aura: Affirmations & Calm
-
 Last updated: March 2026
 
-Aura: Affirmations & Calm (“the App”) respects your privacy and is committed to protecting it. This Privacy Policy explains how the App handles information when you use it.
-
-By using the App, you agree to the practices described in this Privacy Policy.
+Aura: Affirmations & Calm (“the App”) respects your privacy and is committed to protecting it. This Privacy Policy explains how the App handles information when you use it. By using the App, you agree to the practices described in this Privacy Policy.
 
 1. Information We Collect
+The App collects limited information automatically to provide advertisements and ensure app functionality. This information is collected through third-party SDKs:
 
-The App is designed to provide affirmations, meditation sounds, and motivational content.
+Device Identifiers: We use the Google Advertising ID (AAID) to serve relevant advertisements.
 
-We do not collect personally identifiable information such as your name, email address, phone number, or location.
+Technical Data: Device type, hardware model, Android OS version, and App version.
 
-However, the app may automatically collect limited non-personal information for functionality and performance improvement.
+Usage Data: Crash logs, performance diagnostics, and anonymous usage statistics to improve the user experience.
 
-This may include:
-
-Device type
-
-Android OS version
-
-App version
-
-Crash logs and diagnostic information
-
-Anonymous usage data
-
-This information helps us improve the app experience.
+Approximate Location: Derived from your IP address by our advertising partners to show relevant local ads.
 
 2. How We Use Information
+The information collected is used strictly to:
 
-Any collected information is used only to:
+Display advertisements (AdMob).
 
-Improve app stability and performance
+Improve app stability and fix technical bugs.
 
-Fix crashes and technical issues
+Enhance the user experience and maintain app security.
 
-Enhance user experience
-
-Maintain app security
-
-We do not sell, rent, or share personal data with third parties.
+We do not sell or rent your personal data to third parties.
 
 3. Third-Party Services
+The App uses trusted third-party services that may collect information used to identify you. You can review their privacy practices here:
 
-The App may use trusted third-party services that help us operate and improve the app.
+Google Play Services: https://www.google.com/policies/privacy/
 
-These services may collect anonymous information in accordance with their own privacy policies.
+Google AdMob: https://policies.google.com/privacy
 
-Examples may include:
+4. Data Retention and Deletion
+Since the App does not require user accounts or collect personally identifiable information (PII) like names or emails, we do not store personal data on our own servers. Advertising identifiers are managed by Google. You can reset your Advertising ID or opt-out of personalized ads via your Android device settings.
 
-Google Play Services
+5. Permissions
+The App may request the following permissions for core functionality:
 
-Firebase Analytics or Crash Reporting (if used)
+Internet Permission: Required to load online resources and display advertisements.
 
-These services are used only for app functionality and performance monitoring.
+Network State: To check if the device is connected to the internet.
 
-4. Permissions
+6. Data Security
+We take reasonable measures to protect the information transmitted by the App. However, no method of electronic transmission or storage is 100% secure.
 
-The App may request certain permissions depending on features used.
+7. Children's Privacy
+The App does not knowingly collect personal information from children under the age of 13. AdMob may serve "non-personalized ads" to users in certain age groups based on your Google Play Console settings.
 
-Examples include:
-
-Internet Permission
-Used to load online resources or updates if required.
-
-The App does not access personal files, contacts, photos, microphone, or location unless explicitly stated.
-
-5. Data Security
-
-We take reasonable measures to protect the information used by the App. However, no method of transmission over the internet or electronic storage is completely secure.
-
-6. Children's Privacy
-
-The App does not knowingly collect personal information from children under the age of 13.
-
-If a parent or guardian believes that a child has provided personal information, please contact us so we can remove it.
-
-7. Changes to This Privacy Policy
-
+8. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Any updates will be posted on this page with an updated revision date.
 
-Users are encouraged to review this policy periodically.
-
-8. Contact Us
-
-If you have any questions or suggestions regarding this Privacy Policy, please contact us:
+9. Contact Us
+If you have any questions regarding this Privacy Policy, please contact us:
 
 Developer: Divine Creations
+
 Email: developper2025@gmail.com
