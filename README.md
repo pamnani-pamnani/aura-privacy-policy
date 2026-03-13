@@ -1,62 +1,91 @@
 Privacy Policy for Aura: Affirmations & Calm
-Last updated: March 2026
+Last Updated: March 2026
 
-Aura: Affirmations & Calm (“the App”) respects your privacy and is committed to protecting it. This Privacy Policy explains how the App handles information when you use it. By using the App, you agree to the practices described in this Privacy Policy.
+1. Introduction
+Welcome to Aura: Affirmations & Calm ("we," "our," or "us"). We are committed to protecting your privacy and ensuring transparency about how we handle your information. The App does not require login or account creation. We do not collect, store, or share personal information on our own servers. By using our App, you agree to the terms of this Privacy Policy.
 
-1. Information We Collect
-The App collects limited information automatically to provide advertisements and ensure app functionality. This information is collected through third-party SDKs:
+2. Information We Collect
+2.1 Information You Provide Directly
+None: The App does not require any personal information.
 
-Device Identifiers: We use the Google Advertising ID (AAID) to serve relevant advertisements.
+2.2 Information Collected Automatically
+The App uses Google AdMob to show banner advertisements. AdMob may collect:
 
-Technical Data: Device type, hardware model, Android OS version, and App version.
+Approximate location (city/region level)
 
-Usage Data: Crash logs, performance diagnostics, and anonymous usage statistics to improve the user experience.
+Device identifiers (Advertising ID)
 
-Approximate Location: Derived from your IP address by our advertising partners to show relevant local ads.
+Device type and OS
 
-2. How We Use Information
-The information collected is used strictly to:
+App interactions
 
-Display advertisements (AdMob).
+Crash reports and diagnostics
 
-Improve app stability and fix technical bugs.
+This information is processed ephemerally, meaning temporarily during usage and not stored by us.
 
-Enhance the user experience and maintain app security.
+2.3 Health and Wellness Data
+The App provides audio and text content for general relaxation and personal affirmations. It is not a medical, fitness, or health tracking app. We do not collect, track, store, or share any personal health data, medical information, or fitness data.
 
-We do not sell or rent your personal data to third parties.
+2.4 Future Subscription Features
+If subscription features are added later, Google Play Billing will manage payments. We will not store payment data.
 
-3. Third-Party Services
-The App uses trusted third-party services that may collect information used to identify you. You can review their privacy practices here:
+3. How We Use Information
+3.1 Advertising
+We use Google AdMob banner ads. AdMob may use collected data to:
 
-Google Play Services: https://www.google.com/policies/privacy/
+Show relevant ads
 
-Google AdMob: https://policies.google.com/privacy
+Measure ad performance
 
-4. Data Retention and Deletion
-Since the App does not require user accounts or collect personally identifiable information (PII) like names or emails, we do not store personal data on our own servers. Advertising identifiers are managed by Google. You can reset your Advertising ID or opt-out of personalized ads via your Android device settings.
+Prevent fraud and ensure security
 
-5. Permissions
-The App may request the following permissions for core functionality:
+3.2 Analytics
+Used only to improve performance, stability, and user experience.
 
-Internet Permission: Required to load online resources and display advertisements.
+3.3 App Functionality
+To provide affirmations, calming sounds, and smooth operation.
 
-Network State: To check if the device is connected to the internet.
+4. Information Sharing
+4.1 Third-Party Services
+We share data only with:
 
-6. Data Security
-We take reasonable measures to protect the information transmitted by the App. However, no method of electronic transmission or storage is 100% secure.
+Google AdMob: Advertising & analytics. Data shared: Approximate location, device identifiers, usage data. Policy: https://policies.google.com/privacy
+
+Google Play Services: App distribution and billing. Policy: https://policies.google.com/privacy
+
+4.2 Legal Requirements
+Information may be disclosed if required by law.
+
+5. Data Retention
+5.1 Ephemeral Processing
+Data from ads is temporary and not stored on our servers.
+
+5.2 Analytics Data
+Analytics may be retained up to 14 months in aggregated, anonymous form.
+
+6. Your Rights and Choices
+
+Reset advertising ID
+
+Opt out of personalized ads
+
+Manage Ad preferences in device settings
+
+Request data from Google (not us, since we do not store any)
 
 7. Children's Privacy
-The App does not knowingly collect personal information from children under the age of 13. AdMob may serve "non-personalized ads" to users in certain age groups based on your Google Play Console settings.
+The App is not intended for children under 13. We do not knowingly collect data from children.
 
-8. Health and Wellness Data
-Although the App provides offline affirmations and calming content, it does not collect, track, store, or share any personal health data, medical information, or fitness data. The App requires no sign-up or login, and all core content is accessible entirely offline.
+8. Security
+We use HTTPS encryption and follow industry standards.
 
-9. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Any updates will be posted on this page with an updated revision date.
+9. International Data Transfers
+Data may be processed in countries where Google operates.
 
-10. Contact Us
-If you have any questions regarding this Privacy Policy, please contact us:
+10. Changes to This Policy
+We may update this Policy periodically. Updates will appear in the App.
 
+11. Contact Us
 Developer: Divine Creations
-
 Email: developper2025@gmail.com
+Website: https://divinecreations.in/
