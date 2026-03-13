@@ -48,10 +48,13 @@ We take reasonable measures to protect the information transmitted by the App. H
 7. Children's Privacy
 The App does not knowingly collect personal information from children under the age of 13. AdMob may serve "non-personalized ads" to users in certain age groups based on your Google Play Console settings.
 
-8. Changes to This Privacy Policy
+8. Health and Wellness Data
+Although the App provides offline affirmations and calming content, it does not collect, track, store, or share any personal health data, medical information, or fitness data. The App requires no sign-up or login, and all core content is accessible entirely offline.
+
+9. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Any updates will be posted on this page with an updated revision date.
 
-9. Contact Us
+10. Contact Us
 If you have any questions regarding this Privacy Policy, please contact us:
 
 Developer: Divine Creations
