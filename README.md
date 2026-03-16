@@ -23,8 +23,8 @@ Crash reports and diagnostics
 
 This information is processed ephemerally, meaning temporarily during usage and not stored by us.
 
-2.3 Health and Wellness Data
-The App provides audio and text content for general relaxation and personal affirmations. It is not a medical, fitness, or health tracking app. We do not collect, track, store, or share any personal health data, medical information, or fitness data.
+2.3 Health, Wellness, and Stress Management Data
+The App provides features specifically designed for stress management, relaxation, and mental acuity through audio and text content. We are completely transparent about your privacy regarding these features: the App does not access, collect, track, store, or share any personal health data, fitness data, or medical information. Any interaction with the stress management and relaxation features happens entirely locally on your device. No health-related data is ever generated, transmitted to our servers, or shared with third parties.
 
 2.4 Future Subscription Features
 If subscription features are added later, Google Play Billing will manage payments. We will not store payment data.
